@@ -7,10 +7,7 @@
     </h2>
     <div style="max-width: 600px; margin: 0 auto; font-size: 1.2rem; line-height: 1.6; color: #dfe6e9; margin-bottom: 30px;">
         I'm a passionate Computer Science student, focusing on Artificial Intelligence, human emotions, and innovative projects. I love solving problems with technology, especially when it has the potential to impact society in meaningful ways.
-    </div>
-    <button style="padding: 12px 25px; background-color: #0984e3; color: white; font-size: 1.1rem; border: none; border-radius: 5px; cursor: pointer; transition: 0.3s;">
-        Explore My Projects
-    </button>
+    </div><br><br> 
     <div style="margin-top: 30px; display: flex; justify-content: center; gap: 25px;">
         <a href="www.linkedin.com/in/umyal-dixit" style="font-size: 2rem; color: #fd79a8; transition: transform 0.3s ease;" target="_blank">🔗</a>
         <a href="mailto:umyal06dixit@gmail.com" style="font-size: 2rem; color: #fd79a8; transition: transform 0.3s ease;">📧</a>
