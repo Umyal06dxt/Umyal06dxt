@@ -1,5 +1,3 @@
-# Umyal Dixit's GitHub Profile
-
 <div style="font-family: 'Arial', sans-serif; background: #2d3436; color: #fff; height: 100vh; display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center; overflow: hidden;">
     <h1 style="font-size: 3rem; color: #fd79a8; font-weight: 700; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 5px;">
         Hi, I'm <span style="color: #fd79a8; font-weight: bold;">Umyal Dixit</span>!
