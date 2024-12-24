@@ -1,21 +1,41 @@
-<div style="font-family: 'Arial', sans-serif; background: #2d3436; color: #fff; height: 100vh; display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center; overflow: hidden;">
-    <h1 style="font-size: 3rem; color: #fd79a8; font-weight: 700; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 5px;">
-        Hi, I'm <span style="color: #fd79a8; font-weight: bold;">Umyal Dixit</span>!
-    </h1>
-    <h2 style="font-size: 1.5rem; color: #b2bec3; font-weight: 300; margin-bottom: 20px;">
-        Welcome to my GitHub profile
-    </h2>
-    <div style="max-width: 600px; margin: 0 auto; font-size: 1.2rem; line-height: 1.6; color: #dfe6e9; margin-bottom: 30px;">
-        I'm a passionate Computer Science student, focusing on Artificial Intelligence, human emotions, and innovative projects. I love solving problems with technology, especially when it has the potential to impact society in meaningful ways.
-    </div><br>
-    <div style="margin-top: 30px; display: flex; justify-content: center; gap: 25px;">
-        <a href="https://www.linkedin.com/in/umyal-dixit/" style="font-size: 2rem; color: #fd79a8; transition: transform 0.3s ease;" target="_blank">🔗</a>
-    <br>
-        <a href="mailto:umyal06dixit@gmail.com" style="font-size: 2rem; color: #fd79a8; transition: transform 0.3s ease;">📧</a>
-    </div>
-    <br>
-    <footer style="position: absolute; bottom: 20px; font-size: 0.9rem; color: #b2bec3;">
-        <p>I'm constantly learning, building, and collaborating. <br> Let's create something amazing together! <br><br> 
-        </p>
-    </footer>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+a+Developer+%F0%9F%92%BB;Let's+build+something+cool!" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+### 🚀 About Me
+- 🔭 I'm currently working on Trex Tech
+- 🌱 I'm currently learning **Python**
+- 💬 Ask me about **JS,React,node.js,python,git**
+- 📫 How to reach me: **umyal06dixit@gmail.com**
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
