@@ -22,11 +22,10 @@
   <a href="https://linkedin.com/in/umyal-dixit">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
+  <br>
+  
   <a href="https://twitter.com/Umyal_dxt">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github.com/Umyal06dxt/Umyal06dxt/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
