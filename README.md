@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+a+Developer+%F0%9F%92%BB;Let's+build+something+cool!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Umyal06dxt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ### 🚀 About Me
 - 🔭 I'm currently working on Trex Tech
