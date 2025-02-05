@@ -64,7 +64,7 @@
 ---
 
 ### 💡 Fun Projects  
-- 🔥 **[AI Healthcare Chatbot](https://github.com/Umyal06dxt/AI-Healthcare-Chatbot)** – Personalized healthcare assistant using Python and OpenCV.  
+- 🔥 **[AI Healthcare Chatbot](https://github.com/Trex-roars/Hack-2-Proj.git)** – Personalized healthcare assistant using Python and OpenCV.  
 - 🌟 **[GENCO Platform](https://github.com/GENCO-Innovate)** – AI-enhanced educational platform for interactive learning.  
 - 🚀 **[Emotion Recognition AI](https://github.com/Umyal06dxt/Emotion-Recognition-AI)** – Real-time facial expression analysis using computer vision.  
 
