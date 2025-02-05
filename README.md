@@ -6,7 +6,7 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1500&color=F39C12&center=true&width=435&lines=I'm+Umyal+Dixit" alt="Typing SVG" />
   </p>
-  <img src="https://i.pinimg.com/736x/20/f6/20/20f620f7e65a445102a3d63a76cb1afc.jpg" width="250" height="250" style="border-radius: 50%; margin-top: 20px;"alt="Profile Image" />
+  <img src="https://i.pinimg.com/originals/96/3a/65/963a65b850d34ab74d90ba9b4679a049.gif"alt="Profile Image" />
 </div>
 
 ---
