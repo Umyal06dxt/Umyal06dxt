@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Umyal+Dixit+🚀;Developer+%7C+Tech+Enthusiast;Let's+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hello+Humans!+👋;I'm+Umyal+Dixit+🚀;Tech+Enthusiast!" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[T-REX Tech Solutions](https://github.com/T-RexTech)**
-- 🌱 I’m currently learning **Python, DataStax, and LangFlow**
+- 🔭 I’m currently working on **[T-REX Tech](https://github.com/Trex-roars)**
+- 🌱 I’m currently learning ** DataStax, and LangFlow**
 - 💬 Ask me about **JavaScript, React, Node.js, Python, Git, AI integration**
 - 📫 How to reach me: **umyal06dixit@gmail.com**
 - ⚡ Fun fact: I'm not a morning person but always up for a late-night code sprint! 🌙
@@ -16,7 +16,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,mongodb,figma" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,c,python,pytorch,qt,git,mongodb,docker,figma,arduino" alt="Languages and Tools" />
 </p>
 
 ---
@@ -64,9 +64,9 @@
 ---
 
 ### 💡 Fun Projects  
-- 🔥 **[AI Healthcare Chatbot](https://github.com/Trex-roars/Hack-2-Proj.git)** – Personalized healthcare assistant using Python and OpenCV.  
-- 🌟 **[GENCO Platform](https://github.com/GENCO-Innovate)** – AI-enhanced educational platform for interactive learning.  
-- 🚀 **[Emotion Recognition AI](https://github.com/Umyal06dxt/Emotion-Recognition-AI)** – Real-time facial expression analysis using computer vision.  
+- 🔥 **[AI Healthcare Chatbot](https://github.com/Trex-roars/Hack-2-Proj.git)**  
+- 🌟 **[GENCO Platform](https://github.com/Umyal06dxt/GENCO-master.git)** 
+- 🚀 **[Floating Solar Panel](https://github.com/Umyal06dxt/Floating-Solar-Panel.git)**   
 
 ---
 
