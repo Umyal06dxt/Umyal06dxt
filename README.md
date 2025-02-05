@@ -23,3 +23,34 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   46 hrs 15 mins  ████████████████████████▓   98.35 %
+Python       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+SCSS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
+<!--END_SECTION:waka-->
+
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umyal06dxt&show_icons=true&theme=gotham" alt="Umyal06dxt" />
+
+
+
