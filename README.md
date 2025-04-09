@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[T-REX Tech](https://github.com/Trex-roars)**
+- 🔭 I’m currently working on **[NeuroQuant Robotics](https://github.com/NeuroQuant-Robotics)**
 - 🌱 I’m currently learning **DataStax and LangFlow**
 - 💬 Ask me about **JavaScript, React, Node.js, Python, Git, and AI integration**
 - 📫 How to reach me: **umyal06dixit@gmail.com**
