@@ -40,9 +40,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Umyal06dxt&theme=onedark&no-bg=true&no-frame=true&row=1&column=4&title=Commits,Repositories,Stars,Followers" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umyal06dxt&bg_color=080808&color=F39C12&line=7B91FF&point=BA78B5&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umyal06dxt&custom_title=Umyal's%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=667eea&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
