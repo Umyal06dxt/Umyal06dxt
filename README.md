@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,cpp,c,html,css,tailwind" />
   <img src="https://skillicons.dev/icons?i=bash,git,github,vite,vercel,androidstudio,firebase,mongodb,mysql,docker,supabase" />
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,figma,qt,flutter" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,prisma,threejs,ai" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,prisma,threejs" />
 </p>
 
 
