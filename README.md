@@ -13,8 +13,12 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,c,python,pytorch,qt,git,mongodb,docker,figma,arduino" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,cpp,c,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=bash,git,github,vite,vercel,androidstudio,firebase,mongodb,mysql,docker,supabase" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,figma,qt,flutter" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,fastapi,prisma,threejs,ai" />
 </p>
+
 
 ---
 
