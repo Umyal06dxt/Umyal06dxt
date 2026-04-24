@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning **Agentic AI**
 - 💬 Ask me about **JavaScript, React, Node.js, Python, Git, and AI integration**
 - 📫 How to reach me: **umyal06dixit@gmail.com**
-- ⚡ Fun fact: I'm not a morning person but always up for a late-night code sprint! 🌙
+- ⚡ Fun fact: I'm not a morning person but always up for a late-night code sprint! 
 
 ---
 
